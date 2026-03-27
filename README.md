@@ -83,4 +83,4 @@ npm run dev
 *   **Data Integrity**: Ensures the name matches exactly for existing users to prevent record mismatch.
 
 ---
-Developed by @TyageshParmar for **Dermatics India**.
+Developed by [TyageshParmar](https://github.com/TyageshParmar) for **Dermatics India**.
